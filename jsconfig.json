@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "module": "commonjs",
+    "target": "es2016",
+    "jsx": "preserve",
+    "allowSyntheticDefaultImports": true,
+    "checkJs": true,
+    "noUnusedLocals": true,
+    "noFallthroughCasesInSwitch": true,
+    "alwaysStrict": true,
+    "resolveJsonModule": true,
+    "lib": ["esnext"]
+  }
+}
